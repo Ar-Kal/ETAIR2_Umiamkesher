@@ -1,4 +1,4 @@
-# ETAIR — Industrial Knowledge Intelligence Platform
+# ETAIR / Industrial Knowledge Intelligence Platform
 
 > **Document-first, governance-first industrial workspace with AI retrieval.**
 
